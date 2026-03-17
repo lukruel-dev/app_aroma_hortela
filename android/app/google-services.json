@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32663654067",
+    "project_id": "app-aroma-hortela",
+    "storage_bucket": "app-aroma-hortela.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32663654067:android:4e8a8ed1358e9fb9c0eac6",
+        "android_client_info": {
+          "package_name": "com.aromahortela.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhMcYtv_Vlpt6eEm2ViUVknwqlUihXsCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
